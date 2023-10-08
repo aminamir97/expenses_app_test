@@ -1,6 +1,6 @@
 # Expenses_App
 
-This App allowing the user to track his/her personal expenses by few easy operations including : read , filter , delete , add , visualizing chart for the weekly expenses .
+This App allowing the user to track his/her personal expenses by few easy operations including : read , filter , delete , add , visualizing chart for the weekly expenses and expenses monthly filter .
 
 ## Installation
 

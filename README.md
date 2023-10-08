@@ -1,16 +1,24 @@
-# expenses_app
+# Expenses_App
 
-A new Flutter project.
+This App allowing the user to track his/her personal expenses by few easy operations including : read , filter , delete , add , visualizing chart for the weekly expenses and expenses monthly filter .
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+make sure that Flutter v3.10 is installed on your device , after cloning the project by using this link : (https://github.com/aminamir97/expenses_app_test) these commands must be used :
 
-A few resources to get you started if this is your first Flutter project:
+```bash
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+flutter clean
+flutter pub get
+flutter run --debug
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+```
+
+## Contributing
+
+Pull requests are welcome , please note, this app is made for assignment proposing onl, but can be used for other practical purposes
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
